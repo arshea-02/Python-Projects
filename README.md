@@ -1,5 +1,5 @@
 # Python-Projects
-FreeCodeCamp Python Beta Projects
+
 ## 1. Arithmetic Arranger
 The code takes a string of an arithmetic addition or subtraction problem, calculates  the answer and then formats it in the following manner:
                       3801
